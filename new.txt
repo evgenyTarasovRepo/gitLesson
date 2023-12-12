@@ -1,2 +1,5 @@
-edite from newBrnch
-I hope i will go to Slovenia with my family
+public class Person {
+	private String name;
+	private Strinag lastName;
+	privat String job;
+}
